@@ -21,7 +21,7 @@ export default function Contact() {
            if(!error){
              const mensagem = `Gostaria de entrar em contato! \n\nemail: ${email}`
     const msg = encodeURIComponent(mensagem)
-    window.open(`https://wa.me/5541992791114?text=${msg}`)
+    window.open(`https://wa.me/5541*********?text=${msg}`)
            }
 
     }
